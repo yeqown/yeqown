@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 [![Yewown's github stats](https://github-readme-stats.vercel.app/api?username=yeqown&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqown&hide=html&&line_height=3)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeqown" alt="yeqown" />
+
