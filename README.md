@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqown&hide=html&&line_height=3)
-<a href="https://www.vultr.com/?ref=8499887-6G"><img src="https://www.vultr.com/media/banners/banner_160x600.png" width="160" height="600"></a>
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yeqown" alt="yeqown" width="600" />
 
-<!--- [![Yewown's github stats](https://github-readme-stats.vercel.app/api?username=yeqown&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Yewown's github stats](https://github-readme-stats.vercel.app/api?username=yeqown&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://www.vultr.com/?ref=8499887-6G"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
