@@ -36,7 +36,7 @@ I'm trying to do these things recently:
 - [Learning openresty/nginx skills deeply](https://openresty.org/en/)
 - [Studying lua](https://github.com/yeqown/playground/tree/master/lua)
 - [More distributed systems design](#)
-- [Distribution Theory](#)
+- [Distributed Theory](#)
 - [Linux kernel and OS design](#)
 
 ### Contact me
