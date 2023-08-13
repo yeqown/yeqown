@@ -1,21 +1,52 @@
-### Hi there 👋
+## Hi, This is yeqown
 
-<!--
-**yeqown/yeqown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a backend software engineer from China 🇨🇳, and I'm trying to be a full-stack engineer and a DevOps engineer. I'd like to contribute to open source projects and share my knowledge with others.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Education: Computer Science and Technology, Southwest Petroleum University
+- 🌱 Focusing on (now): [openresty](#), [lua](#), [LSM](#), [k8s](#)
+- 💬 Topics I like: Microservices, DevOps, Distributed Systems, Linux, Open Source, etc. We can 
 
+### Skills
 
-[![Yewown's github stats](https://github-readme-stats.vercel.app/api?username=yeqown&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- Languages: go, python, shell, javascript, c, lua, etc.
+- Frameworks and Libraries: kratos, gin, gorm, asynq etc.
+- Network: tcp/ip, http1/2, grpc, ICMP, etc.
+- Tools: redis, kafka, mysql, rabbitmq, openresty/nginx, k8s, etc.
+- Other Skills: performance tuning, distributed systems design, CI/CD, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqown&hide=html&&line_height=3) <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yeqown" alt="yeqown" width="600" />
+I'd using these skills to build a distributed system, and I'm trying to learn more about distributed systems design and implementation.
+
+### Open Source Projects
+
+I'd like to contribute to open source projects, you can find them in my GitHub repositories. Such as:
+
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+- [go-gorm](https://github.com/go-gorm) - The fantastic ORM library for Golang, aims to be developer friendly.
+- [asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go.
+- [gocache](https://github.com/eko/gocache) - A complete Go cache library that brings you multiple ways of managing your caches.
+- [go-qrcode](https://github.com/yeqown/go-qrcode) - A golang lib to generate QRCode.
+
+### Recent Targets or Plans
+
+I'm trying to do these things recently:
+
+- [Implement a KV storage](https://github.com/yeqown/enchanted-sleeve)
+- [Learning openresty/nginx skills deeply](https://openresty.org/en/)
+- [Studying lua](https://github.com/yeqown/playground/tree/master/lua)
+- [More distributed systems design](#)
+- [Distribution Theory](#)
+- [Linux kernel and OS design](#)
+
+### Contact me
+
+You can find and get touch with me on these accounts!
+
+- GitHub: https://github.com/yeqown
+- Email: yeqown@gmail.com
+- Social Contact：[twitter](https://twitter.com/yeqown), [TG](https://t.me/yeqown)
+
+If you interested in my projects, you can get in touch with me to discuss more details.
+
+Thanks for visiting my GitHub profile and have a nice day!
