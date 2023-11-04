@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a backend software engineer from China 🇨�
 ### About me
 
 - 🎓 Education: Computer Science and Technology, Southwest Petroleum University
-- 🌱 Focusing on (now): [openresty](#), [lua](#), [LSM](#), [k8s](#)
+- 🌱 Focusing on (now): [openresty](#), [lua](#), [LSM](#), [k8s](#), [service mesh](#)
 - 💬 Topics I like: Microservices, DevOps, Distributed Systems, Linux, Open Source, etc. We can talk these topics together.
 
 ### Skills
