@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a backend software engineer from China ðŸ‡¨ðŸ‡
 - Frameworks and Libraries: kratos, gin, gorm, asynq etc.
 - Network: tcp/ip, http1/2, grpc, ICMP, etc.
 - Tools: redis, kafka, mysql, rabbitmq, openresty/nginx, k8s, etc.
-- Architecture Build Kit: CDC, Data Sharding, Data Warehouse.
+- Architecture Build Kit: CDC, Data Sharding (Sharding Sphere), Data Warehouse (Doris).
 - Other Skills: performance tuning, distributed systems design, CI/CD, etc.
 
 I'd using these skills to build a distributed system, and I'm trying to learn more about distributed systems design and implementation.
