@@ -28,6 +28,8 @@ I'd like to contribute to open source projects, you can find them in my GitHub r
 - [asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go.
 - [gocache](https://github.com/eko/gocache) - A complete Go cache library that brings you multiple ways of managing your caches.
 - [go-qrcode](https://github.com/yeqown/go-qrcode) - A golang lib to generate QRCode.
+- [gitlab-flow](https://github.com/yeqown/gitlab-flow) - A git working flow CLI to improve development efficiency.
+- [Memcached](https://github.com/yeqown/memcached) - Memcached client package supports a connection pool for Gopher and provides a CLI easy to interactive with Memcached server.
 
 ### Recent Targets or Plans
 
