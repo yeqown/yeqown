@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm a backend software engineer from China 🇨�
 ### About me
 
 - 🎓 Education: Computer Science and Technology, SouthWest Petroleum University
-- 🌱 Focusing on (now): [openresty](#), [lua](#), [LSM](#), [k8s](#), [service mesh](#)
+- 🌱 Focusing on (now):  [k8s](#), [service mesh](#), [wasm](#), [lua](#), [LSM](#), [Rust[(#)
 - 💬 Topics I like: Microservices, DevOps, Distributed Systems, Linux, Open Source, etc. We can talk these topics together.
 
 ### Skills
 
-- Languages: go, python, shell, javascript, c, lua, etc.
+- Languages: go, python, shell, rust, javascript, c, lua, etc.
 - Frameworks and Libraries: kratos, gin, gorm, asynq etc.
 - Network: tcp/ip, http1/2, grpc, ICMP, etc.
 - Tools: redis, kafka, mysql, rabbitmq, openresty/nginx, k8s, etc.
